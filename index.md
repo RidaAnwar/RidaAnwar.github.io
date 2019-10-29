@@ -1,6 +1,9 @@
-Rida Anwar \n
+Rida Anwar 
+
 230-B Faisal Town, Lahore, Pakistan
+
 Contact: +92 3014222776
+
 Email: ridaanwar921@gmail.com				
 
 OBJECTIVE:	
