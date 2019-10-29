@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+Rida Anwar
+230-B Faisal Town, Lahore, Pakistan 
+Contact: +92 3014222776
+Email: ridaanwar921@gmail.com				
 
-You can use the [editor on GitHub](https://github.com/shahwaiz90/shahwaiz90.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OBJECTIVE:	
+To pursue a successful career in software development, in a Company where skills in coding, troubleshooting and testing will be useful in the delivery of state-of-the-art software solutions.
+	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EDUCATION:
+BSCS 	FAST-NUCES University, Lahore , Present,
 
-### Markdown
+F.Sc:	KIPS College, Lahore Pre-engineering, 2012-2014 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Matric: Pak Garrison Girls High School  Nankana Sahib,  2012
 
-```markdown
-Syntax highlighted code block
+EXPERIENCE	
+•	Worked as volunteer in Geek Week Event.
+•	Worked in IEEE as a Team Member.
 
-# Header 1
-## Header 2
-### Header 3
+ACADEMIC:
 
-- Bulleted
-- List
+PROJECTS	Unity Projects:-
 
-1. Numbered
-2. List
+•	“2048 Game“ using C++ language
+•	“Lexical Analyzer” using C++ language on Linux. 
+•	“Cattle Management System” using Object Oriented Analysis and Design (OOAD). This Application helps to find an animal of buyer choice from mobile and easy transaction of money from buyer to seller’s account.
+•	“Princess Search Game” using C++. In an enchanted maze one tries to find Princess and releases her besides of all hurdles like snake in room etc.
+•	“Coin Exchange Game” using Java language. This is new game like monopoly or cross words but somehow different.
+•	Development of “Cricket Simulator” in C++. Playing cricket, updating scores, choosing best teams and win or lose these are essences of this game.
+•	“Connect People Application” as FYP it is an android application that helps the users to schedule a successful meet up by using different features like notification, alarms, scheduling, notes and some additional AI features i.e. location and tracking rush.
 
-**Bold** and _Italic_ and `Code` text
+LANGUAGES	
+English   Urdu  
 
-[Link](url) and ![Image](src)
-```
+PROGRAMMING SKILLS
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+OTHER SKILLS:
+C++      C      JAVA    OOP   Python 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahwaiz90/shahwaiz90.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Android Studio    Intellij   Microsoft Visual Studio     Power Point   StarUml    NetBeans     Linux     PyCharm     Github 
 
-### Support or Contact
+ACTIVITIES 
+ AND 
+ INTERESTS	Research        Learning New Languages
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Quite Interested in Managing & Designing Projects
+
+
